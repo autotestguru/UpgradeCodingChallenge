@@ -12,7 +12,7 @@
 ==================================
 1. Install required tools in the given sequence.
 2. Setup JAVA_HOME and M2_HOME in Environment variables to locations of Java JDK and Maven binaries respectively.
-3. Clone the Automation framework from Github location, http://10.10.23.121/svn/project_repo/trunk/QAA/CucumberAutomation/
+3. Clone the Automation project from Github location, https://github.com/autotestguru/UpgradeCodingChallenge/tree/master (master branch)
 5. Import the project into Intellij or desired IDE as a maven project or using console (cmd/terminal) navigate to base folder for framework.
 
 ## Executing Tests
